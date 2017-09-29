@@ -1,0 +1,1212 @@
+﻿{
+	"0501": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0319"
+		]
+	},
+	"0502": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0335"
+		]
+	},
+	"0503": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0009"
+		],
+		"evolution": {
+			"1372": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "20"
+				}
+			},
+			"0092": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0504": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0498",
+			"1001"
+		],
+		"evolution": {
+			"0496": {
+				"required": [
+					{
+						"card_id": "1077"
+					}
+				],
+				"item": {
+					"id": "098",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0506": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0006"
+		],
+		"evolution": {
+			"0508": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "091",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0508": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0506"
+		],
+		"evolution": {
+			"1220": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					}
+				],
+				"item": {
+					"id": "091",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0531": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"0532": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "007",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0532": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0531"
+		],
+		"evolution": {
+			"0533": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "008",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0533": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0532"
+		],
+		"evolution": {
+			"0534": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "25"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "25"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0534": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0533"
+		],
+		"evolution": {
+			"0932": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "30"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "25"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "25"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "30"
+				}
+			}
+		}
+	},
+	"0535": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"0536": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "5"
+					}
+				],
+				"item": {
+					"id": "013",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0536": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0535"
+		],
+		"evolution": {
+			"0537": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Dark",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "020",
+					"quantity": "10"
+				}
+			},
+			"0073": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "8"
+					}
+				],
+				"item": {
+					"id": "011",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0537": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0536"
+		]
+	},
+	"0540": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"0541": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "013",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0541": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0540"
+		],
+		"evolution": {
+			"0542": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Holy",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "014",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0542": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0541"
+		],
+		"evolution": {
+			"0500": {
+				"required": [
+					{
+						"card_id": "5877"
+					},
+					{
+						"card_id": "5877"
+					},
+					{
+						"card_id": "5877"
+					}
+				],
+				"item": {
+					"id": "036",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0543": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0229"
+		]
+	},
+	"0592": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0689"
+		],
+		"evolution": {
+			"0690": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Holy",
+						"level": "15"
+					},
+					{
+						"card_type": "Holy",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "017",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0593": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0690"
+		]
+	},
+	"0602": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0692"
+		]
+	},
+	"0660": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0451"
+		]
+	},
+	"0664": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0468"
+		],
+		"evolution": {
+			"4129": {
+				"required": [
+					{
+						"card_id": "7470"
+					}
+				],
+				"item": {
+					"id": "022",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0670": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1290"
+		]
+	},
+	"0672": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0313"
+		]
+	},
+	"0680": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0813",
+			"0815",
+			"0816",
+			"0812"
+		]
+	},
+	"0683": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0458"
+		]
+	},
+	"0685": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0115"
+		]
+	},
+	"0689": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1336": {
+				"required": [
+					{
+						"card_type": "Holy",
+						"level": "25"
+					},
+					{
+						"card_type": "Holy",
+						"level": "20"
+					},
+					{
+						"card_type": "Holy",
+						"level": "15"
+					},
+					{
+						"card_type": "Holy",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "018",
+					"quantity": "20"
+				}
+			},
+			"0592": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "013",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0690": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0592"
+		],
+		"evolution": {
+			"0593": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Holy",
+						"level": "25"
+					},
+					{
+						"card_type": "Holy",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "018",
+					"quantity": "20"
+				}
+			},
+			"0192": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dark",
+						"level": "25"
+					},
+					{
+						"card_type": "Dark",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "021",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0691": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1814": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "25"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "029",
+					"quantity": "20"
+				}
+			},
+			"0166": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "013",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0692": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0166"
+		],
+		"evolution": {
+			"0602": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Holy",
+						"level": "25"
+					},
+					{
+						"card_type": "Holy",
+						"level": "25"
+					}
+				],
+				"item": {
+					"id": "018",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0716": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0458"
+		]
+	},
+	"0717": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0467"
+		]
+	},
+	"0719": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0214"
+		]
+	},
+	"0723": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"0724": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					},
+					{
+						"card_type": "Dark",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "007",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0724": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0723"
+		],
+		"evolution": {
+			"4153": {
+				"required": [
+					{
+						"card_type": "Dark",
+						"level": "35"
+					},
+					{
+						"card_type": "Dark",
+						"level": "30"
+					},
+					{
+						"card_type": "Dark",
+						"level": "25"
+					},
+					{
+						"card_type": "Dark",
+						"level": "20"
+					},
+					{
+						"card_type": "Dark",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "139",
+					"quantity": "20"
+				}
+			},
+			"0725": {
+				"required": [
+					{
+						"card_id": "6099"
+					},
+					{
+						"card_id": "6099"
+					},
+					{
+						"card_id": "6099"
+					}
+				],
+				"item": {
+					"id": "039",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0725": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0724"
+		],
+		"evolution": {
+			"1520": {
+				"required": [
+					{
+						"card_id": "6100"
+					},
+					{
+						"card_id": "6100"
+					}
+				],
+				"item": {
+					"id": "039",
+					"quantity": "30"
+				}
+			}
+		}
+	},
+	"0729": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0122"
+		],
+		"evolution": {
+			"0730": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0730": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0729"
+		],
+		"evolution": {
+			"2565": {
+				"required": [
+					{
+						"card_id": "2012"
+					}
+				],
+				"item": {
+					"id": "130",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0734": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0282"
+		]
+	},
+	"0758": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1016": {
+				"required": [
+					{
+						"card_id": "5046"
+					}
+				],
+				"item": {
+					"id": "109",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0804": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0157"
+		],
+		"evolution": {
+			"1327": {
+				"required": [
+					{
+						"card_type": "Holy",
+						"level": "40"
+					},
+					{
+						"card_type": "Holy",
+						"level": "40"
+					},
+					{
+						"card_type": "Holy",
+						"level": "30"
+					},
+					{
+						"card_type": "Holy",
+						"level": "30"
+					},
+					{
+						"card_type": "Holy",
+						"level": "25"
+					}
+				],
+				"item": {
+					"id": "018",
+					"quantity": "40"
+				}
+			}
+		}
+	},
+	"0809": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0232"
+		]
+	},
+	"0812": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0302"
+		],
+		"evolution": {
+			"0680": {
+				"required": [
+					{
+						"card_id": "5369"
+					},
+					{
+						"card_id": "5371"
+					},
+					{
+						"card_id": "5372"
+					}
+				],
+				"item": {
+					"id": "126",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0813": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0318"
+		],
+		"evolution": {
+			"0680": {
+				"required": [
+					{
+						"card_id": "5368"
+					},
+					{
+						"card_id": "5371"
+					},
+					{
+						"card_id": "5372"
+					}
+				],
+				"item": {
+					"id": "126",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0815": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0336"
+		],
+		"evolution": {
+			"0680": {
+				"required": [
+					{
+						"card_id": "5368"
+					},
+					{
+						"card_id": "5369"
+					},
+					{
+						"card_id": "5372"
+					}
+				],
+				"item": {
+					"id": "126",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0816": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0363"
+		],
+		"evolution": {
+			"0680": {
+				"required": [
+					{
+						"card_id": "5368"
+					},
+					{
+						"card_id": "5369"
+					},
+					{
+						"card_id": "5371"
+					}
+				],
+				"item": {
+					"id": "126",
+					"quantity": "10"
+				}
+			}
+		}
+	},
+	"0932": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0534"
+		]
+	},
+	"0982": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1862": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Dark",
+						"level": "15"
+					},
+					{
+						"card_type": "Dark",
+						"level": "10"
+					},
+					{
+						"card_type": "Dark",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "021",
+					"quantity": "20"
+				}
+			},
+			"1863": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0987": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0121"
+		],
+		"evolution": {
+			"1186": {
+				"required": [
+					{
+						"card_id": "5763"
+					},
+					{
+						"card_id": "5763"
+					},
+					{
+						"card_id": "5763"
+					},
+					{
+						"card_id": "5763"
+					},
+					{
+						"card_id": "5763"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0989": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0025"
+		]
+	},
+	"0993": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0068"
+		],
+		"evolution": {
+			"1918": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					}
+				],
+				"item": {
+					"id": "095",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0994": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0195"
+		]
+	},
+	"0995": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1324": {
+				"required": [
+					{
+						"card_id": "6589"
+					}
+				],
+				"item": {
+					"id": "113",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"0996": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0090"
+		],
+		"evolution": {
+			"0104": {
+				"required": [
+					{
+						"card_id": "1099"
+					}
+				]
+			}
+		}
+	}
+}

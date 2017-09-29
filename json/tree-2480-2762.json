@@ -1,0 +1,142 @@
+﻿{
+	"2480": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"4095"
+		]
+	},
+	"2483": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1479"
+		]
+	},
+	"2484": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0199"
+		]
+	},
+	"2487": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1018": {
+				"required": [
+					{
+						"card_id": "1019"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "20"
+				}
+			},
+			"4070": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "30"
+					},
+					{
+						"card_type": "Nature",
+						"level": "25"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "20"
+				}
+			}
+		}
+	},
+	"2520": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1383",
+			"1385",
+			"1384"
+		]
+	},
+	"2521": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1443": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "008",
+					"quantity": "15"
+				}
+			}
+		}
+	},
+	"2565": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0132",
+			"0730"
+		]
+	},
+	"2583": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0092"
+		]
+	},
+	"2584": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1225",
+			"1020"
+		]
+	},
+	"2738": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1245"
+		]
+	},
+	"2740": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"4117"
+		]
+	},
+	"2757": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1228",
+			"1312"
+		]
+	},
+	"2762": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"1377"
+		]
+	}
+}
