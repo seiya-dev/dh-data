@@ -162,8 +162,8 @@
 		"support": "60/257",
 		"main_skill": "Only <span class=\"digi-purple\">purple</span> dark cards will appear next.",
 		"main_skill_turns": "9/7",
-		"leader_skill": "Halves the damage received from <span class=\"digi-yellow\">yellow</span> holy enemies.",
-		"leader_skill_turns": "11/9",
+		"leader_skill": "Reduces the damage received from <span class=\"digi-yellow\">yellow</span> holy enemies.",
+		"leader_skill_turns": "7/5",
 		"profile": "Anniversary limited scenario! Two Fallen Angel Digimon dressed in black, with a sly and atrocious personality, but superior intelligence!",
 		"is_item": false
 	},

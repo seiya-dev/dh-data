@@ -80,7 +80,37 @@
 		"has_evolution_tree": true,
 		"previous_forms": [
 			"0445"
-		]
+		],
+		"evolution": {
+			"0659": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "40"
+					},
+					{
+						"card_type": "Nature",
+						"level": "40"
+					},
+					{
+						"card_type": "Nature",
+						"level": "30"
+					},
+					{
+						"card_type": "Nature",
+						"level": "30"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "30"
+				}
+			}
+		}
 	},
 	"0448": {
 		"has_evolution_tree": true,
@@ -415,6 +445,34 @@
 					"id": "015",
 					"quantity": "25"
 				}
+			},
+			"0662": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "40"
+					},
+					{
+						"card_type": "Nature",
+						"level": "40"
+					},
+					{
+						"card_type": "Nature",
+						"level": "30"
+					},
+					{
+						"card_type": "Nature",
+						"level": "30"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "30"
+				}
 			}
 		}
 	},
@@ -473,6 +531,30 @@
 			"0460"
 		],
 		"evolution": {
+			"2022": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "014",
+					"quantity": "20"
+				}
+			},
 			"0463": {
 				"required": [
 					{
@@ -655,6 +737,34 @@
 					{
 						"card_type": "Dragon",
 						"level": "15"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "30"
+				}
+			},
+			"0663": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "40"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "40"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "30"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "30"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "20"
 					}
 				],
 				"item": {

@@ -246,8 +246,8 @@
 		"support": "83/280",
 		"main_skill": "Some <span class=\"digi-red\">red</span> dragon, <span class=\"digi-brown\">brown</span> recovery and wild cards will appear.",
 		"main_skill_turns": "6/4",
-		"leader_skill": "Halves the damage received from <span class=\"digi-red\">red</span> dragon enemies.",
-		"leader_skill_turns": "10/8",
+		"leader_skill": "Reduces the damage received from <span class=\"digi-red\">red</span> dragon enemies.",
+		"leader_skill_turns": "6/4",
 		"profile": "A Light Dragon Digimon that stores the burning energy of the Sun and uses it in battle. No matter how many times it falls, it always gets back up due to its strong spirit. It can summon the Geogrey Sword, in which the power of the earth is concentrated.",
 		"is_item": false
 	},
@@ -666,8 +666,8 @@
 		"support": "109/237",
 		"main_skill": "Inflict a large amount of damage to one enemy.",
 		"main_skill_turns": "7/6",
-		"leader_skill": "Halves the damage received from <span class=\"digi-purple\">purple</span> dark enemies.",
-		"leader_skill_turns": "10/9",
+		"leader_skill": "Reduces the damage received from <span class=\"digi-purple\">purple</span> dark enemies.",
+		"leader_skill_turns": "6/5",
 		"profile": "A Digimon who armor-evolved from Tailmon using the Digimental of Light. It has the attribute of light and can gracefully fly in the sky. It can purify the corruption of the darkness using the power of intense light.",
 		"is_item": false
 	},
@@ -687,8 +687,8 @@
 		"support": "107/352",
 		"main_skill": "Only <span class=\"digi-brown\">brown</span> recovery cards will appear next.",
 		"main_skill_turns": "7/5",
-		"leader_skill": "Halves the damage received from <span class=\"digi-purple\">purple</span> dark enemies.",
-		"leader_skill_turns": "10/8",
+		"leader_skill": "Reduces the damage received from <span class=\"digi-purple\">purple</span> dark enemies.",
+		"leader_skill_turns": "6/4",
 		"profile": "A Digimon that spreads love and mercy. It is the ultimate form of the female Angel Digimon. It protects the Kernel (the God's land) together with Seraphimon and Cherubimon.",
 		"is_item": false
 	}

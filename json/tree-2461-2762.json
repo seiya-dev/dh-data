@@ -1,4 +1,10 @@
 ﻿{
+	"2461": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"4164"
+		]
+	},
 	"2480": {
 		"has_evolution_tree": true,
 		"previous_forms": [
@@ -28,7 +34,7 @@
 				],
 				"item": {
 					"id": "015",
-					"quantity": "20"
+					"quantity": "40"
 				}
 			},
 			"4070": {
@@ -113,6 +119,39 @@
 			"1225",
 			"1020"
 		]
+	},
+	"2700": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"0707": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "40"
+					},
+					{
+						"card_type": "Knight",
+						"level": "40"
+					},
+					{
+						"card_type": "Knight",
+						"level": "40"
+					},
+					{
+						"card_type": "Knight",
+						"level": "30"
+					},
+					{
+						"card_type": "Knight",
+						"level": "30"
+					}
+				],
+				"item": {
+					"id": "012",
+					"quantity": "30"
+				}
+			}
+		}
 	},
 	"2738": {
 		"has_evolution_tree": true,

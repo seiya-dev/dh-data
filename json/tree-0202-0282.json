@@ -2,6 +2,37 @@
 	"0202": {
 		"has_evolution_tree": true,
 		"evolution": {
+			"1378": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "011",
+					"quantity": "20"
+				}
+			},
+			"2135": {
+				"required": [
+					{
+						"card_id": "8005"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "20"
+				}
+			},
 			"0127": {
 				"required": [
 					{
@@ -210,6 +241,26 @@
 	"0222": {
 		"has_evolution_tree": true,
 		"evolution": {
+			"1581": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "008",
+					"quantity": "15"
+				}
+			},
 			"0225": {
 				"required": [
 					{
@@ -240,6 +291,35 @@
 				"item": {
 					"id": "007",
 					"quantity": "5"
+				}
+			}
+		}
+	},
+	"0223": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"1431": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "25"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "012",
+					"quantity": "10"
 				}
 			}
 		}
@@ -276,7 +356,29 @@
 		"has_evolution_tree": true,
 		"previous_forms": [
 			"0037"
-		]
+		],
+		"evolution": {
+			"1812": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "014",
+					"quantity": "20"
+				}
+			}
+		}
 	},
 	"0229": {
 		"has_evolution_tree": true,

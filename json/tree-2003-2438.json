@@ -1,4 +1,10 @@
 ﻿{
+	"2003": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0501"
+		]
+	},
 	"2006": {
 		"has_evolution_tree": true,
 		"previous_forms": [
@@ -115,6 +121,18 @@
 		"has_evolution_tree": true,
 		"previous_forms": [
 			"1550"
+		]
+	},
+	"2022": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0461"
+		]
+	},
+	"2025": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0602"
 		]
 	},
 	"2027": {
@@ -290,6 +308,12 @@
 				}
 			}
 		}
+	},
+	"2135": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0202"
+		]
 	},
 	"2160": {
 		"has_evolution_tree": true,
@@ -735,6 +759,12 @@
 			}
 		}
 	},
+	"2221": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0533"
+		]
+	},
 	"2271": {
 		"has_evolution_tree": true,
 		"previous_forms": [
@@ -839,6 +869,34 @@
 					"quantity": "20"
 				}
 			},
+			"1671": {
+				"required": [
+					{
+						"card_type": "Dark",
+						"level": "50"
+					},
+					{
+						"card_type": "Dark",
+						"level": "50"
+					},
+					{
+						"card_type": "Dark",
+						"level": "40"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "50"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "40"
+					}
+				],
+				"item": {
+					"id": "021",
+					"quantity": "30"
+				}
+			},
 			"4094": {
 				"required": [
 					{
@@ -897,10 +955,55 @@
 			}
 		}
 	},
+	"2402": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"4124"
+		]
+	},
 	"2405": {
 		"has_evolution_tree": true,
 		"previous_forms": [
 			"1372"
 		]
+	},
+	"2427": {
+		"has_evolution_tree": true,
+		"previous_forms": [
+			"0758"
+		]
+	},
+	"2438": {
+		"has_evolution_tree": true,
+		"evolution": {
+			"0710": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "40"
+					},
+					{
+						"card_type": "Knight",
+						"level": "30"
+					},
+					{
+						"card_type": "Knight",
+						"level": "25"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "20"
+					}
+				],
+				"item": {
+					"id": "012",
+					"quantity": "20"
+				}
+			}
+		}
 	}
 }

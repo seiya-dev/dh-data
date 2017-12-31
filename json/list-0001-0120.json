@@ -1275,8 +1275,8 @@
 		"support": "96/224",
 		"main_skill": "Only <span class=\"digi-purple\">purple</span> dark cards will appear next.",
 		"main_skill_turns": "9/7",
-		"leader_skill": "Halves the damage received from <span class=\"digi-yellow\">yellow</span> holy enemies.",
-		"leader_skill_turns": "11/9",
+		"leader_skill": "Reduces the damage received from <span class=\"digi-yellow\">yellow</span> holy enemies.",
+		"leader_skill_turns": "7/5",
 		"profile": "A Digimon shrouded in mystery. No one knows how or why it was born. It possesses a strong and elusive power, so if you meet it you'll have no choice but to resign yourself to your final moments.",
 		"is_item": false
 	},

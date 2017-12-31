@@ -336,7 +336,7 @@
 				],
 				"item": {
 					"id": "009",
-					"quantity": "20"
+					"quantity": "40"
 				}
 			},
 			"4054": {
@@ -361,6 +361,30 @@
 				"item": {
 					"id": "009",
 					"quantity": "20"
+				}
+			},
+			"0975": {
+				"required": [
+					{
+						"card_type": "Dragon",
+						"level": "25"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "20"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "15"
+					},
+					{
+						"card_type": "Dragon",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "009",
+					"quantity": "10"
 				}
 			},
 			"0026": {
@@ -587,6 +611,54 @@
 			"0029"
 		],
 		"evolution": {
+			"1228": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "012",
+					"quantity": "15"
+				}
+			},
+			"1250": {
+				"required": [
+					{
+						"card_type": "Knight",
+						"level": "20"
+					},
+					{
+						"card_type": "Knight",
+						"level": "15"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					},
+					{
+						"card_type": "Knight",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "012",
+					"quantity": "10"
+				}
+			},
 			"0042": {
 				"required": [
 					{
@@ -823,6 +895,30 @@
 			"0030"
 		],
 		"evolution": {
+			"1247": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "10"
+				}
+			},
 			"0070": {
 				"required": [
 					{
@@ -1329,6 +1425,30 @@
 			"0086"
 		],
 		"evolution": {
+			"1697": {
+				"required": [
+					{
+						"card_type": "Dark",
+						"level": "25"
+					},
+					{
+						"card_type": "Dark",
+						"level": "20"
+					},
+					{
+						"card_type": "Dark",
+						"level": "15"
+					},
+					{
+						"card_type": "Dark",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "021",
+					"quantity": "15"
+				}
+			},
 			"0265": {
 				"required": [
 					{
@@ -1865,6 +1985,30 @@
 				],
 				"item": {
 					"id": "097",
+					"quantity": "20"
+				}
+			},
+			"1337": {
+				"required": [
+					{
+						"card_type": "Holy",
+						"level": "25"
+					},
+					{
+						"card_type": "Holy",
+						"level": "20"
+					},
+					{
+						"card_type": "Holy",
+						"level": "15"
+					},
+					{
+						"card_type": "Holy",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "018",
 					"quantity": "20"
 				}
 			},

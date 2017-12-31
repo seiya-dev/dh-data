@@ -359,6 +359,26 @@
 	"0322": {
 		"has_evolution_tree": true,
 		"evolution": {
+			"1028": {
+				"required": [
+					{
+						"card_type": "Dark",
+						"level": "15"
+					},
+					{
+						"card_type": "Dark",
+						"level": "10"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					}
+				],
+				"item": {
+					"id": "014",
+					"quantity": "20"
+				}
+			},
 			"0243": {
 				"required": [
 					{
@@ -440,6 +460,30 @@
 			"0062"
 		],
 		"evolution": {
+			"1473": {
+				"required": [
+					{
+						"card_type": "Nature",
+						"level": "25"
+					},
+					{
+						"card_type": "Nature",
+						"level": "20"
+					},
+					{
+						"card_type": "Nature",
+						"level": "15"
+					},
+					{
+						"card_type": "Nature",
+						"level": "10"
+					}
+				],
+				"item": {
+					"id": "015",
+					"quantity": "10"
+				}
+			},
 			"0502": {
 				"required": [
 					{
